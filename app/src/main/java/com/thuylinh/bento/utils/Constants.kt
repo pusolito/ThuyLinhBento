@@ -14,12 +14,12 @@ object Constants {
 
     object Config {
 
-        const val DEFAULT_URL = "http://your-base-url/"
+        const val DEFAULT_URL = "http://intelligence.im/"
         const val BASE_URL = DEFAULT_URL + "wp-json/"
-        const val consumerKey = "ZH0mxMZ63h22"
-        const val consumerSecret = "z5RTcjT0NseqCYbfTQXaSwSNC054HLp0SGGhqbMKlpWWtOTH"
-        const val token = "gN3kZdeh2Yyh6Ntdvip4Mokf"
-        const val tokenSecret = "EhhwL3Ta6GSevnG6aKd4pCdp2X3rosIivzubXmZxSLkByi31"
+        const val consumerKey = "tACNzxwHAJGg"
+        const val consumerSecret = "3K2zwx0UdMu0rDeMTCqreNauWqjWyNuH9wzDG5VW20lkCw5a"
+        const val token = "KI7eZXp1ITIbDmNLojHEjmTW"
+        const val tokenSecret = "HY23zytMPg0svuUiCX2GR35t1xQGVjDWA4925GY7hC0xYC2T"
 
 
     }
