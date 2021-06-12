@@ -39,7 +39,7 @@
                     android:fitsSystemWindows="true"
                     android:overScrollMode="never" />
 
-                <com.iqonic.woobox.utils.dotsindicator.DotsIndicator
+                <com.thuylinh.bento.utils.dotsindicator.DotsIndicator
                     android:id="@+id/dots"
                     android:layout_width="wrap_content"
                     android:layout_height="@dimen/_30sdp"
@@ -305,7 +305,7 @@
                     style="@style/Heading"
                     android:text="@string/hint_description" />
 
-                <com.iqonic.woobox.utils.ExpandableTextView
+                <com.thuylinh.bento.utils.ExpandableTextView
                     android:id="@+id/tvTags"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

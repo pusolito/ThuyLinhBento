@@ -5,11 +5,11 @@
 
         <variable
             name="model"
-            type="com.iqonic.woobox.models.ProductModel" />
+            type="com.thuylinh.bento.models.ProductModel" />
 
         <variable
             name="callback"
-            type="com.iqonic.woobox.base.BaseRecyclerAdapter.OnClickListener" />
+            type="com.thuylinh.bento.base.BaseRecyclerAdapter.OnClickListener" />
 
     </data>
 

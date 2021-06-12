@@ -42,7 +42,7 @@
                 android:textSize="@dimen/font_size_xlarge" />
         </LinearLayout>
 
-        <com.iqonic.woobox.utils.scratch.ScratchTextView
+        <com.thuylinh.bento.utils.scratch.ScratchTextView
             android:id="@+id/scratch_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

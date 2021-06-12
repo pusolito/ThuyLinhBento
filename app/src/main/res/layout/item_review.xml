@@ -7,11 +7,11 @@
 
         <variable
             name="model"
-            type="com.iqonic.woobox.models.ProductReviewData" />
+            type="com.thuylinh.bento.models.ProductReviewData" />
 
         <variable
             name="callback"
-            type="com.iqonic.woobox.base.BaseRecyclerAdapter.OnClickListener" />
+            type="com.thuylinh.bento.base.BaseRecyclerAdapter.OnClickListener" />
     </data>
 
     <RelativeLayout

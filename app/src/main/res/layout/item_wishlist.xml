@@ -6,11 +6,11 @@
 
         <variable
             name="model"
-            type="com.iqonic.woobox.models.WishListData" />
+            type="com.thuylinh.bento.models.WishListData" />
 
         <variable
             name="callback"
-            type="com.iqonic.woobox.base.BaseRecyclerAdapter.OnClickListener" />
+            type="com.thuylinh.bento.base.BaseRecyclerAdapter.OnClickListener" />
     </data>
 
     <LinearLayout

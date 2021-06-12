@@ -5,11 +5,11 @@
 
         <variable
             name="model"
-            type="com.iqonic.woobox.models.MyOrderData" />
+            type="com.thuylinh.bento.models.MyOrderData" />
 
         <variable
             name="callback"
-            type="com.iqonic.woobox.base.BaseRecyclerAdapter.OnClickListener" />
+            type="com.thuylinh.bento.base.BaseRecyclerAdapter.OnClickListener" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -162,7 +162,7 @@
                 android:visibility="gone">
 
 
-                <com.iqonic.woobox.utils.CircleView
+                <com.thuylinh.bento.utils.CircleView
                     android:id="@+id/ivCircle"
                     android:layout_width="@dimen/_20sdp"
                     android:layout_height="@dimen/_20sdp"
@@ -170,14 +170,14 @@
                     app:color="@color/yellow"
                     app:radius="@dimen/spacing_control" />
 
-                <com.iqonic.woobox.utils.LineView
+                <com.thuylinh.bento.utils.LineView
                     android:id="@+id/ivLine"
                     android:layout_width="@dimen/_20sdp"
                     android:layout_height="@dimen/_35sdp"
                     android:layout_below="@id/ivCircle"
                     app:line_color="@color/track_grey" />
 
-                <com.iqonic.woobox.utils.CircleView
+                <com.thuylinh.bento.utils.CircleView
                     android:id="@+id/ivCircle1"
                     android:layout_width="@dimen/_20sdp"
                     android:layout_height="@dimen/_20sdp"
