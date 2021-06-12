@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331759926463",
+    "project_id": "thuylinhbento",
+    "storage_bucket": "thuylinhbento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331759926463:android:57942f9a2f973e2315da0a",
+        "android_client_info": {
+          "package_name": "com.thuylinh.bento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331759926463-fuvmoenhe9bbgmqk5lhqpbe9jctec7ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7InhkVB_l8psyZuBgIAEeTbqNSjEPCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331759926463-fuvmoenhe9bbgmqk5lhqpbe9jctec7ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
