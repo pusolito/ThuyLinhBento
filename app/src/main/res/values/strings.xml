@@ -27,9 +27,9 @@
     <string name="lbl_subheading">Chúng tôi làm cho xung quanh thành phố của bạn Giá cả phải chăng, dễ dàng và hiệu quả.</string>
     <string name="lbl_my_order">Đơn hàng của tôi</string>
     <string name="lbl_reward">Phần thưởng</string>
-    <string name="lbl_wish_list">Danh sách mong ước</string>
-    <string name="lbl_women">Đàn bà</string>
-    <string name="lbl_men">đàn ông</string>
+    <string name="lbl_wish_list">Wishlist</string>
+    <string name="lbl_women">Nữ</string>
+    <string name="lbl_men">Nam</string>
     <string name="lbl_kids">Trẻ em</string>
     <string name="lbl_sports">Các môn thể thao</string>
     <string name="lbl_camera">Máy ảnh</string>
@@ -145,7 +145,7 @@
     <string name="lbl_footwear">giày dép</string>
     <string name="lbl_order_pending">để chờ</string>
     <string name="lbl_choose_item">Chọn một mục</string>
-    <string name="lbl_tabDescription">Sự miêu tả</string>
+    <string name="lbl_tabDescription">Đôi chút về món này</string>
     <string name="lbl_tab_more_info">Thêm thông tin</string>
     <string name="lbl_tabReviews">Nhận xét</string>
     <string name="lbl_qty">Số lượng:</string>
@@ -265,7 +265,7 @@
     <string name="lbl_call_request">Yêu cầu Call</string>
     <string name="lbl_email">E-mail</string>
     <string name="lbl_send_mail">Gửi thư</string>
-    <string name="lbl_email_to_woobox">Email để woobox</string>
+    <string name="lbl_email_to_woobox">Email gửi cho Linh</string>
     <string name="lbl_from">Từ</string>
     <string name="lbl_description">Sự miêu tả</string>
     <string name="hint_description_here">Mô tả ở đây</string>
@@ -273,11 +273,11 @@
     <string name="error_enter_valid_contact">Nhập số điện thoại hợp lệ</string>
     <string name="title_contactus">Liên hệ chúng tôi</string>
     <string name="lbl_card_number">Số thẻ</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">tranthuylinh041299@gmail.com</string>
     <string name="lbl_length">Chiều dài</string>
     <string name="lbl_width">Chiều rộng</string>
     <string name="days">ngày</string>
-    <string name="hours">hr</string>
+    <string name="hours">giờ</string>
     <string name="minutes">phút</string>
     <string name="seconds">giây</string>
     <string name="title_offer">Mời</string>
@@ -294,7 +294,7 @@
     <string name="text_offer_not_available">Offer Không Khả dụng</string>
     <string name="msg_not_allowed">Đây là bản demo phiên bản. Bạn không được phép thực hiện hành động này.</string>
     <string name="lbl_logout">Đăng xuất</string>
-    <string name="lbl_success">Sự thành công!!</string>
+    <string name="lbl_success">Thành công!!</string>
     <string name="lbl_share_app">Chia sẻ App</string>
     <string name="msg_sold_out">Bán hết</string>
     <string name="lbl_about">Về chúng tôi</string>

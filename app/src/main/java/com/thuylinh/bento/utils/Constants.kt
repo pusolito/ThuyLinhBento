@@ -13,7 +13,7 @@ object Constants {
     const val myPreferences = "MyPreferences"
 
     object Config {
-        // day la khu vuc noi dung ket noi wordpress woocommerce api voi app
+        // day la khu vuc noi dung ket noi wordpress woocommerce api voi app kiem tra phuong thuc ket noi
         const val DEFAULT_URL = "https://intelligence.im/"
         const val BASE_URL = DEFAULT_URL + "wp-json/"
         const val consumerKey = "tACNzxwHAJGg"
