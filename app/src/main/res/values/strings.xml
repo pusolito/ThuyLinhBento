@@ -4,9 +4,9 @@
     <string name="facebook_app_id" translatable="false">519323575384019</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb519323575384019</string>
 
-    <string name="ad_mob_app_id" translatable="false">ca-app-pub-4937593957421986~3239804062</string>
-    <string name="ad_mob_banner_id" translatable="false">ca-app-pub-4937593957421986/6921418147</string>
-    <string name="ad_mob_interstitial_id" translatable="false">ca-app-pub-4937593957421986/8959234608</string>
+    <string name="ad_mob_app_id" translatable="false">ca-app-pub-4785759960931820~4252705977</string>
+    <string name="ad_mob_banner_id" translatable="false">ca-app-pub-4785759960931820/4285523231</string>
+    <string name="ad_mob_interstitial_id" translatable="false">ca-app-pub-4785759960931820/1934692060</string>
     <string name="font_medium" translatable="false">fonts/Montserrat-Medium.ttf</string>
     <string name="font_semibold" translatable="false">fonts/Montserrat-SemiBold.ttf</string>
     <string name="font_bold" translatable="false">fonts/Montserrat-Bold.ttf</string>
