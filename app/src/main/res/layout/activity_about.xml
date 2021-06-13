@@ -48,7 +48,7 @@
                 android:layout_below="@id/tvAppName"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="@dimen/spacing_standard_new"
-                tools:text="© WooBox 2020 | All rights reserved"
+                tools:text="Bản quyền 2021 © Trần Thị Thùy Linh."
                 android:textColor="@color/textColorPrimary"
                 android:textSize="@dimen/font_size_normal" />
 
