@@ -26,6 +26,7 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
+// Caused build issues, but see if you can get this working if needed
+//task clean(type: Delete) {
+//    delete rootProject.buildDir
+//}
